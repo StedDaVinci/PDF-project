@@ -21,3 +21,4 @@ if __name__ == "__main__":
     
     text = sys.argv[1]
     generate_pdf(text)
+#/usr/local/bin/python3 pdf_gen_eerste.py " TEXT "
