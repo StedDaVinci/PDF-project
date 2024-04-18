@@ -1,15 +1,25 @@
 import os
 import shutil
 import json
-from datetime import datetime
 from reportlab.lib.pagesizes import letter
 from reportlab.pdfgen import canvas
+from os.path import isfile, join
+
+def read_files_in_folder(folder_path):
+    file_contents = {}
+    onlyfiles = [f for f in os.listdir(folder_path) if isfile(join(folder_path, f))]
+    for filename in onlyfiles:
+        file_path = join(folder_path, filename)
+        with open(file_path, "r") as file:
+            file_contents[filename] = file.read()
+    return file_contents
 
 def load_order_from_json(file_path):
-    with open('/Volumes/School/PDF-project/JSON_IN', "r") as file:
+    with open(file_path, "r") as file:
         order_data = json.load(file)
+        print(order_data)
+        print(file)
     return order_data
-
 
 def calculate_subtotal(items):
     subtotal = 0
@@ -21,8 +31,10 @@ def calculate_total(subtotal, tax_rate):
     return subtotal * (1 + tax_rate)
 
 def generate_invoice(order_data, tax_rate):
-    file_name = os.path.basename(order_data["file_name"])
-    pdf_file_path = os.path.join("INVOICE", os.path.splitext(file_name)[0] + ".pdf")
+    # Aannemen dat het bestandsnaam hetzelfde is als de ordernummer
+    print(order_data)
+    order_number = order_data["factuur"]["factuurnummer"]
+    pdf_file_path = os.path.join("INVOICE", f"{order_number}.pdf")
     c = canvas.Canvas(pdf_file_path, pagesize=letter)
     width, height = letter
 
@@ -32,12 +44,12 @@ def generate_invoice(order_data, tax_rate):
     c.drawString(width - 150, height - 70, "Orderdatum:")
     c.drawString(width - 150, height - 90, "Betaaltermijn:")
     c.setFont("Helvetica", 12)
-    c.drawString(width - 50, height - 50, order_data["order"]["ordernummer"])
-    c.drawString(width - 50, height - 70, order_data["order"]["orderdatum"])
-    c.drawString(width - 50, height - 90, order_data["order"]["betaaltermijn"])
+    c.drawString(width - 50, height - 50, order_data["factuur"]["factuurnummer"])
+    c.drawString(width - 50, height - 70, order_data["factuur"]["factuurdatum"])
+    c.drawString(width - 50, height - 90, order_data["factuur"]["betaaltermijn"])
 
     # Klantinformatie
-    klant = order_data["order"]["klant"]
+    klant = order_data["factuur"]["klant"]
     klant_naam = klant["naam"]
     klant_adres = klant["adres"]
     klant_postcode = klant["postcode"]
@@ -61,7 +73,7 @@ def generate_invoice(order_data, tax_rate):
     c.line(50, height - 260, width - 50, height - 260)
 
     line_height = 20
-    items = order_data["order"]["producten"]
+    items = order_data["factuur"]["producten"]
     item_y = height - 280
     for item in items:
         c.drawString(50, item_y, item["productnaam"])
@@ -81,7 +93,7 @@ def generate_invoice(order_data, tax_rate):
     c.drawString(width - 150, item_y - 40, "Btw:")
     btw_total = 0
     for item in items:
-        btw_amount = item["aantal"] * item["prijs_per_stuk_excl_btw"] * (item["btw_percentage"] / 100)
+        btw_amount = item["aantal"] * item["prijs_per_stuk_excl_btw"] * tax_rate 
         btw_total += btw_amount
     c.drawString(width - 50, item_y - 40, "{:.2f}".format(btw_total))
 
