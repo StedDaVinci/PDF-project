@@ -1,0 +1,3214 @@
+{
+    "query": "select * from klanten",
+    "resultcount": 401,
+    "result": [
+        {
+            "klant_id": 1,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 326",
+            "postcode": "6841 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "26818371"
+        },
+        {
+            "klant_id": 2,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 438",
+            "postcode": "8523 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "41318098"
+        },
+        {
+            "klant_id": 3,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 511",
+            "postcode": "3511 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "36401456"
+        },
+        {
+            "klant_id": 4,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 563",
+            "postcode": "7400 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "38009778"
+        },
+        {
+            "klant_id": 5,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 9",
+            "postcode": "6288 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "88904014"
+        },
+        {
+            "klant_id": 6,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 718",
+            "postcode": "4170 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "24981858"
+        },
+        {
+            "klant_id": 7,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 523",
+            "postcode": "5717 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "42494197"
+        },
+        {
+            "klant_id": 8,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 218",
+            "postcode": "2764 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "32105573"
+        },
+        {
+            "klant_id": 9,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 424",
+            "postcode": "4824 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "84018503"
+        },
+        {
+            "klant_id": 10,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 926",
+            "postcode": "5443 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "31325221"
+        },
+        {
+            "klant_id": 11,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 441",
+            "postcode": "9814 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "62656490"
+        },
+        {
+            "klant_id": 12,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 253",
+            "postcode": "7776 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "80204129"
+        },
+        {
+            "klant_id": 13,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 419",
+            "postcode": "5350 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "82396413"
+        },
+        {
+            "klant_id": 14,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 378",
+            "postcode": "1840 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "16495203"
+        },
+        {
+            "klant_id": 15,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 509",
+            "postcode": "3637 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "73165418"
+        },
+        {
+            "klant_id": 16,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 825",
+            "postcode": "1308 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "19254550"
+        },
+        {
+            "klant_id": 17,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 304",
+            "postcode": "8113 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "17284674"
+        },
+        {
+            "klant_id": 18,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 482",
+            "postcode": "5695 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "50154437"
+        },
+        {
+            "klant_id": 19,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 721",
+            "postcode": "9888 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "13832297"
+        },
+        {
+            "klant_id": 20,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 457",
+            "postcode": "3264 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "33887386"
+        },
+        {
+            "klant_id": 21,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 114",
+            "postcode": "7979 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "57972130"
+        },
+        {
+            "klant_id": 22,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 240",
+            "postcode": "5795 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "69647773"
+        },
+        {
+            "klant_id": 23,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 849",
+            "postcode": "1188 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "99666722"
+        },
+        {
+            "klant_id": 24,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 616",
+            "postcode": "6922 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "91735482"
+        },
+        {
+            "klant_id": 25,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 918",
+            "postcode": "1731 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "86972840"
+        },
+        {
+            "klant_id": 26,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 707",
+            "postcode": "6183 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "34207782"
+        },
+        {
+            "klant_id": 27,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 570",
+            "postcode": "8554 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "53486285"
+        },
+        {
+            "klant_id": 28,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 924",
+            "postcode": "9130 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "27384004"
+        },
+        {
+            "klant_id": 29,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 667",
+            "postcode": "1614 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "66180694"
+        },
+        {
+            "klant_id": 30,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 22",
+            "postcode": "9586 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "12224803"
+        },
+        {
+            "klant_id": 31,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 777",
+            "postcode": "6384 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "88739196"
+        },
+        {
+            "klant_id": 32,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 839",
+            "postcode": "4173 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "37360008"
+        },
+        {
+            "klant_id": 33,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 251",
+            "postcode": "6990 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "94355774"
+        },
+        {
+            "klant_id": 34,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 496",
+            "postcode": "9025 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "34885181"
+        },
+        {
+            "klant_id": 35,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 926",
+            "postcode": "4865 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "14245844"
+        },
+        {
+            "klant_id": 36,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 354",
+            "postcode": "9919 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "16546564"
+        },
+        {
+            "klant_id": 37,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 961",
+            "postcode": "4836 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "65301603"
+        },
+        {
+            "klant_id": 38,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 579",
+            "postcode": "7866 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "20271503"
+        },
+        {
+            "klant_id": 39,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 144",
+            "postcode": "7936 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "82367242"
+        },
+        {
+            "klant_id": 40,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 453",
+            "postcode": "3130 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "60983488"
+        },
+        {
+            "klant_id": 41,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 118",
+            "postcode": "8182 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "40113317"
+        },
+        {
+            "klant_id": 42,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 183",
+            "postcode": "2590 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "58064025"
+        },
+        {
+            "klant_id": 43,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 597",
+            "postcode": "8952 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "57392598"
+        },
+        {
+            "klant_id": 44,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 945",
+            "postcode": "1045 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "24323352"
+        },
+        {
+            "klant_id": 45,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 570",
+            "postcode": "8300 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "71229608"
+        },
+        {
+            "klant_id": 46,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 860",
+            "postcode": "7914 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "44297601"
+        },
+        {
+            "klant_id": 47,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 229",
+            "postcode": "2023 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "74029143"
+        },
+        {
+            "klant_id": 48,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 237",
+            "postcode": "1043 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "55197034"
+        },
+        {
+            "klant_id": 49,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 252",
+            "postcode": "2877 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "12198875"
+        },
+        {
+            "klant_id": 50,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 661",
+            "postcode": "7074 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "81459455"
+        },
+        {
+            "klant_id": 51,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 36",
+            "postcode": "3407 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "39222574"
+        },
+        {
+            "klant_id": 52,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 556",
+            "postcode": "8273 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "66602337"
+        },
+        {
+            "klant_id": 53,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 412",
+            "postcode": "6047 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "22581529"
+        },
+        {
+            "klant_id": 54,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 675",
+            "postcode": "8900 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "90664365"
+        },
+        {
+            "klant_id": 55,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 720",
+            "postcode": "1012 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "27000454"
+        },
+        {
+            "klant_id": 56,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 510",
+            "postcode": "1699 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "28960504"
+        },
+        {
+            "klant_id": 57,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 206",
+            "postcode": "5424 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "75754330"
+        },
+        {
+            "klant_id": 58,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 565",
+            "postcode": "5732 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "55894785"
+        },
+        {
+            "klant_id": 59,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 408",
+            "postcode": "3088 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "87262257"
+        },
+        {
+            "klant_id": 60,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 464",
+            "postcode": "5420 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "25110093"
+        },
+        {
+            "klant_id": 61,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 791",
+            "postcode": "3801 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "94043801"
+        },
+        {
+            "klant_id": 62,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 466",
+            "postcode": "5652 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "69484443"
+        },
+        {
+            "klant_id": 63,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 97",
+            "postcode": "5232 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "81354532"
+        },
+        {
+            "klant_id": 64,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 967",
+            "postcode": "9008 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "93105123"
+        },
+        {
+            "klant_id": 65,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 771",
+            "postcode": "5972 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "57264752"
+        },
+        {
+            "klant_id": 66,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 185",
+            "postcode": "9711 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "73452156"
+        },
+        {
+            "klant_id": 67,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 817",
+            "postcode": "9237 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "20586696"
+        },
+        {
+            "klant_id": 68,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 223",
+            "postcode": "3826 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "82735885"
+        },
+        {
+            "klant_id": 69,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 991",
+            "postcode": "9719 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "91324889"
+        },
+        {
+            "klant_id": 70,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 153",
+            "postcode": "3918 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "58195181"
+        },
+        {
+            "klant_id": 71,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 342",
+            "postcode": "2647 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "12205024"
+        },
+        {
+            "klant_id": 72,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 117",
+            "postcode": "9758 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "45385302"
+        },
+        {
+            "klant_id": 73,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 938",
+            "postcode": "8490 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "62505959"
+        },
+        {
+            "klant_id": 74,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 495",
+            "postcode": "6139 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "47330253"
+        },
+        {
+            "klant_id": 75,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 579",
+            "postcode": "1982 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "19558812"
+        },
+        {
+            "klant_id": 76,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 438",
+            "postcode": "9700 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "47837714"
+        },
+        {
+            "klant_id": 77,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 321",
+            "postcode": "3671 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "49580680"
+        },
+        {
+            "klant_id": 78,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 17",
+            "postcode": "7937 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "15006716"
+        },
+        {
+            "klant_id": 79,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 397",
+            "postcode": "2835 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "87580288"
+        },
+        {
+            "klant_id": 80,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 810",
+            "postcode": "2992 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "92929820"
+        },
+        {
+            "klant_id": 81,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 992",
+            "postcode": "3185 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "53796362"
+        },
+        {
+            "klant_id": 82,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 967",
+            "postcode": "3880 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "48683774"
+        },
+        {
+            "klant_id": 83,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 272",
+            "postcode": "5888 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "75825290"
+        },
+        {
+            "klant_id": 84,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 719",
+            "postcode": "5865 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "67938234"
+        },
+        {
+            "klant_id": 85,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 656",
+            "postcode": "7062 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "86895854"
+        },
+        {
+            "klant_id": 86,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 157",
+            "postcode": "9103 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "93736947"
+        },
+        {
+            "klant_id": 87,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 666",
+            "postcode": "8403 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "80023098"
+        },
+        {
+            "klant_id": 88,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 300",
+            "postcode": "5726 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "13999956"
+        },
+        {
+            "klant_id": 89,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 453",
+            "postcode": "9077 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "35944255"
+        },
+        {
+            "klant_id": 90,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 906",
+            "postcode": "4834 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "16984032"
+        },
+        {
+            "klant_id": 91,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 656",
+            "postcode": "1627 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "70331341"
+        },
+        {
+            "klant_id": 92,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 656",
+            "postcode": "7956 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33642056"
+        },
+        {
+            "klant_id": 93,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 686",
+            "postcode": "5285 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "98366540"
+        },
+        {
+            "klant_id": 94,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 443",
+            "postcode": "2490 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "47295881"
+        },
+        {
+            "klant_id": 95,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 850",
+            "postcode": "5910 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "33840285"
+        },
+        {
+            "klant_id": 96,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 288",
+            "postcode": "5393 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "14711494"
+        },
+        {
+            "klant_id": 97,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 386",
+            "postcode": "8894 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "16251316"
+        },
+        {
+            "klant_id": 98,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 173",
+            "postcode": "1544 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "88914649"
+        },
+        {
+            "klant_id": 99,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 351",
+            "postcode": "9416 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "53111836"
+        },
+        {
+            "klant_id": 100,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 254",
+            "postcode": "3939 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "46847806"
+        },
+        {
+            "klant_id": 101,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 14",
+            "postcode": "5320 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "82606479"
+        },
+        {
+            "klant_id": 102,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 302",
+            "postcode": "2099 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "93094116"
+        },
+        {
+            "klant_id": 103,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 738",
+            "postcode": "3034 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "98665410"
+        },
+        {
+            "klant_id": 104,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 527",
+            "postcode": "5177 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "88021244"
+        },
+        {
+            "klant_id": 105,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 497",
+            "postcode": "9612 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "93216690"
+        },
+        {
+            "klant_id": 106,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 649",
+            "postcode": "8799 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "23536807"
+        },
+        {
+            "klant_id": 107,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 420",
+            "postcode": "5782 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "27989857"
+        },
+        {
+            "klant_id": 108,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 771",
+            "postcode": "5246 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "50746605"
+        },
+        {
+            "klant_id": 109,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 142",
+            "postcode": "5360 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33199458"
+        },
+        {
+            "klant_id": 110,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 942",
+            "postcode": "8099 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "52006139"
+        },
+        {
+            "klant_id": 111,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 923",
+            "postcode": "3561 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "12519190"
+        },
+        {
+            "klant_id": 112,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 753",
+            "postcode": "4579 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "71015250"
+        },
+        {
+            "klant_id": 113,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 732",
+            "postcode": "6118 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "58004025"
+        },
+        {
+            "klant_id": 114,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 20",
+            "postcode": "6991 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "75282612"
+        },
+        {
+            "klant_id": 115,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 44",
+            "postcode": "3691 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "28396743"
+        },
+        {
+            "klant_id": 116,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 738",
+            "postcode": "1438 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "40387880"
+        },
+        {
+            "klant_id": 117,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 352",
+            "postcode": "6875 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "40877107"
+        },
+        {
+            "klant_id": 118,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 764",
+            "postcode": "8258 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "28851041"
+        },
+        {
+            "klant_id": 119,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 493",
+            "postcode": "4084 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "39866780"
+        },
+        {
+            "klant_id": 120,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 792",
+            "postcode": "3377 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "83113575"
+        },
+        {
+            "klant_id": 121,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 475",
+            "postcode": "6070 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "95579109"
+        },
+        {
+            "klant_id": 122,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 557",
+            "postcode": "2545 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "53321229"
+        },
+        {
+            "klant_id": 123,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 963",
+            "postcode": "7321 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "75342873"
+        },
+        {
+            "klant_id": 124,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 67",
+            "postcode": "7501 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "50556785"
+        },
+        {
+            "klant_id": 125,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 872",
+            "postcode": "2258 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "99125646"
+        },
+        {
+            "klant_id": 126,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 21",
+            "postcode": "1156 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "39701570"
+        },
+        {
+            "klant_id": 127,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 943",
+            "postcode": "4377 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "37849608"
+        },
+        {
+            "klant_id": 128,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 816",
+            "postcode": "8971 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "11676886"
+        },
+        {
+            "klant_id": 129,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 500",
+            "postcode": "6873 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "76961508"
+        },
+        {
+            "klant_id": 130,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 992",
+            "postcode": "1159 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "74942066"
+        },
+        {
+            "klant_id": 131,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 342",
+            "postcode": "7635 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "80772145"
+        },
+        {
+            "klant_id": 132,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 913",
+            "postcode": "8605 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "90925759"
+        },
+        {
+            "klant_id": 133,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 83",
+            "postcode": "4850 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "36341934"
+        },
+        {
+            "klant_id": 134,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 636",
+            "postcode": "5966 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "62286591"
+        },
+        {
+            "klant_id": 135,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 279",
+            "postcode": "3915 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "55444474"
+        },
+        {
+            "klant_id": 136,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 12",
+            "postcode": "5707 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "68357435"
+        },
+        {
+            "klant_id": 137,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 257",
+            "postcode": "1621 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "78293134"
+        },
+        {
+            "klant_id": 138,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 983",
+            "postcode": "1105 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "56821261"
+        },
+        {
+            "klant_id": 139,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 813",
+            "postcode": "7880 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "54031465"
+        },
+        {
+            "klant_id": 140,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 528",
+            "postcode": "4369 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "93266471"
+        },
+        {
+            "klant_id": 141,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 917",
+            "postcode": "3992 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "91495392"
+        },
+        {
+            "klant_id": 142,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 416",
+            "postcode": "6700 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "72414772"
+        },
+        {
+            "klant_id": 143,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 938",
+            "postcode": "7177 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "60509504"
+        },
+        {
+            "klant_id": 144,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 627",
+            "postcode": "4588 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "58348834"
+        },
+        {
+            "klant_id": 145,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 246",
+            "postcode": "2313 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "95602017"
+        },
+        {
+            "klant_id": 146,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 821",
+            "postcode": "2696 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "16613029"
+        },
+        {
+            "klant_id": 147,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 748",
+            "postcode": "3729 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "73403241"
+        },
+        {
+            "klant_id": 148,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 473",
+            "postcode": "5235 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "60628260"
+        },
+        {
+            "klant_id": 149,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 549",
+            "postcode": "2552 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "83789272"
+        },
+        {
+            "klant_id": 150,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 828",
+            "postcode": "1236 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "24232832"
+        },
+        {
+            "klant_id": 151,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 330",
+            "postcode": "7509 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "88203838"
+        },
+        {
+            "klant_id": 152,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 514",
+            "postcode": "1731 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "70337133"
+        },
+        {
+            "klant_id": 153,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 878",
+            "postcode": "6947 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "83679763"
+        },
+        {
+            "klant_id": 154,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 770",
+            "postcode": "5581 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "45778930"
+        },
+        {
+            "klant_id": 155,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 824",
+            "postcode": "3138 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "38631064"
+        },
+        {
+            "klant_id": 156,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 532",
+            "postcode": "1015 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "78830611"
+        },
+        {
+            "klant_id": 157,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 584",
+            "postcode": "3178 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "29416022"
+        },
+        {
+            "klant_id": 158,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 274",
+            "postcode": "7334 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "51257132"
+        },
+        {
+            "klant_id": 159,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 75",
+            "postcode": "2240 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "37948946"
+        },
+        {
+            "klant_id": 160,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 110",
+            "postcode": "3811 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "25939304"
+        },
+        {
+            "klant_id": 161,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 669",
+            "postcode": "6385 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "88645126"
+        },
+        {
+            "klant_id": 162,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 606",
+            "postcode": "4434 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "43143489"
+        },
+        {
+            "klant_id": 163,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 157",
+            "postcode": "8888 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "78139713"
+        },
+        {
+            "klant_id": 164,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 643",
+            "postcode": "3043 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "91981583"
+        },
+        {
+            "klant_id": 165,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 5",
+            "postcode": "9770 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "69373121"
+        },
+        {
+            "klant_id": 166,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 954",
+            "postcode": "1909 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "39585429"
+        },
+        {
+            "klant_id": 167,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 54",
+            "postcode": "9032 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "71866946"
+        },
+        {
+            "klant_id": 168,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 870",
+            "postcode": "4166 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "68502603"
+        },
+        {
+            "klant_id": 169,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 817",
+            "postcode": "9280 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "64036407"
+        },
+        {
+            "klant_id": 170,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 990",
+            "postcode": "8437 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "43893997"
+        },
+        {
+            "klant_id": 171,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 404",
+            "postcode": "3580 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "92793093"
+        },
+        {
+            "klant_id": 172,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 55",
+            "postcode": "1986 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "81072466"
+        },
+        {
+            "klant_id": 173,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 327",
+            "postcode": "2039 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "82323064"
+        },
+        {
+            "klant_id": 174,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 685",
+            "postcode": "5458 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "66751361"
+        },
+        {
+            "klant_id": 175,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 131",
+            "postcode": "7430 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "79437329"
+        },
+        {
+            "klant_id": 176,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 997",
+            "postcode": "1032 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "68055682"
+        },
+        {
+            "klant_id": 177,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 559",
+            "postcode": "4247 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "27903336"
+        },
+        {
+            "klant_id": 178,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 313",
+            "postcode": "2332 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "84928690"
+        },
+        {
+            "klant_id": 179,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 70",
+            "postcode": "8756 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "60869495"
+        },
+        {
+            "klant_id": 180,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 403",
+            "postcode": "8072 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "15295508"
+        },
+        {
+            "klant_id": 181,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 89",
+            "postcode": "9132 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "20826532"
+        },
+        {
+            "klant_id": 182,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 230",
+            "postcode": "2105 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "78676016"
+        },
+        {
+            "klant_id": 183,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 680",
+            "postcode": "7582 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "17952427"
+        },
+        {
+            "klant_id": 184,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 274",
+            "postcode": "6848 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "57009887"
+        },
+        {
+            "klant_id": 185,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 808",
+            "postcode": "3645 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "52663877"
+        },
+        {
+            "klant_id": 186,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 260",
+            "postcode": "7901 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "95109929"
+        },
+        {
+            "klant_id": 187,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 536",
+            "postcode": "4987 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "54435570"
+        },
+        {
+            "klant_id": 188,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 683",
+            "postcode": "5284 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "82698890"
+        },
+        {
+            "klant_id": 189,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 134",
+            "postcode": "6008 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "29587735"
+        },
+        {
+            "klant_id": 190,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 332",
+            "postcode": "5780 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33099824"
+        },
+        {
+            "klant_id": 191,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 659",
+            "postcode": "8172 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "30577734"
+        },
+        {
+            "klant_id": 192,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 72",
+            "postcode": "8410 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "55887439"
+        },
+        {
+            "klant_id": 193,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 452",
+            "postcode": "9628 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "22669619"
+        },
+        {
+            "klant_id": 194,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 164",
+            "postcode": "9099 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "93290277"
+        },
+        {
+            "klant_id": 195,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 155",
+            "postcode": "5032 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "88755583"
+        },
+        {
+            "klant_id": 196,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 315",
+            "postcode": "6689 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "32176180"
+        },
+        {
+            "klant_id": 197,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 931",
+            "postcode": "5822 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "96867842"
+        },
+        {
+            "klant_id": 198,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 956",
+            "postcode": "1723 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "41150424"
+        },
+        {
+            "klant_id": 199,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 842",
+            "postcode": "3939 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "92670676"
+        },
+        {
+            "klant_id": 200,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 975",
+            "postcode": "5092 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "15513337"
+        },
+        {
+            "klant_id": 201,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 263",
+            "postcode": "3623 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "68522436"
+        },
+        {
+            "klant_id": 202,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 208",
+            "postcode": "7627 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "80700416"
+        },
+        {
+            "klant_id": 203,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 484",
+            "postcode": "9483 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "23750173"
+        },
+        {
+            "klant_id": 204,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 457",
+            "postcode": "8026 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "52713765"
+        },
+        {
+            "klant_id": 205,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 602",
+            "postcode": "5712 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "63277287"
+        },
+        {
+            "klant_id": 206,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 817",
+            "postcode": "3279 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33124876"
+        },
+        {
+            "klant_id": 207,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 202",
+            "postcode": "5015 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "86170515"
+        },
+        {
+            "klant_id": 208,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 534",
+            "postcode": "4275 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "79217289"
+        },
+        {
+            "klant_id": 209,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 291",
+            "postcode": "2631 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "68354844"
+        },
+        {
+            "klant_id": 210,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 975",
+            "postcode": "9338 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "68847688"
+        },
+        {
+            "klant_id": 211,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 233",
+            "postcode": "9987 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "13388453"
+        },
+        {
+            "klant_id": 212,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 428",
+            "postcode": "7722 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "37483890"
+        },
+        {
+            "klant_id": 213,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 776",
+            "postcode": "7390 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "44556199"
+        },
+        {
+            "klant_id": 214,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 320",
+            "postcode": "7334 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "18509565"
+        },
+        {
+            "klant_id": 215,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 273",
+            "postcode": "9658 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "16572699"
+        },
+        {
+            "klant_id": 216,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 364",
+            "postcode": "3606 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "67563260"
+        },
+        {
+            "klant_id": 217,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 520",
+            "postcode": "7489 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "40927713"
+        },
+        {
+            "klant_id": 218,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 894",
+            "postcode": "2186 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "54118113"
+        },
+        {
+            "klant_id": 219,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 171",
+            "postcode": "9553 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "45900896"
+        },
+        {
+            "klant_id": 220,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 142",
+            "postcode": "3325 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "14668828"
+        },
+        {
+            "klant_id": 221,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 735",
+            "postcode": "2665 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "92959529"
+        },
+        {
+            "klant_id": 222,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 201",
+            "postcode": "6693 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "82677424"
+        },
+        {
+            "klant_id": 223,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 539",
+            "postcode": "7622 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "34119803"
+        },
+        {
+            "klant_id": 224,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 903",
+            "postcode": "2257 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "14696691"
+        },
+        {
+            "klant_id": 225,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 961",
+            "postcode": "2068 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "45656252"
+        },
+        {
+            "klant_id": 226,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 73",
+            "postcode": "5373 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "93201363"
+        },
+        {
+            "klant_id": 227,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 858",
+            "postcode": "7718 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "24997219"
+        },
+        {
+            "klant_id": 228,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 473",
+            "postcode": "7309 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "51349447"
+        },
+        {
+            "klant_id": 229,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 821",
+            "postcode": "5495 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "49574767"
+        },
+        {
+            "klant_id": 230,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 371",
+            "postcode": "4931 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "43266394"
+        },
+        {
+            "klant_id": 231,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 478",
+            "postcode": "4048 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "50496041"
+        },
+        {
+            "klant_id": 232,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 72",
+            "postcode": "2755 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "55352862"
+        },
+        {
+            "klant_id": 233,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 628",
+            "postcode": "1374 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "53672740"
+        },
+        {
+            "klant_id": 234,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 769",
+            "postcode": "1322 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "73535320"
+        },
+        {
+            "klant_id": 235,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 849",
+            "postcode": "6275 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "85508291"
+        },
+        {
+            "klant_id": 236,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 776",
+            "postcode": "4921 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "28052495"
+        },
+        {
+            "klant_id": 237,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 575",
+            "postcode": "7689 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "62085045"
+        },
+        {
+            "klant_id": 238,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 908",
+            "postcode": "2778 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "17912619"
+        },
+        {
+            "klant_id": 239,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 300",
+            "postcode": "6327 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "48857077"
+        },
+        {
+            "klant_id": 240,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 193",
+            "postcode": "6638 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "52836856"
+        },
+        {
+            "klant_id": 241,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 132",
+            "postcode": "1928 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "77382066"
+        },
+        {
+            "klant_id": 242,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 89",
+            "postcode": "2253 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "93584643"
+        },
+        {
+            "klant_id": 243,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 131",
+            "postcode": "9718 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "26449591"
+        },
+        {
+            "klant_id": 244,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 390",
+            "postcode": "1774 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "65552407"
+        },
+        {
+            "klant_id": 245,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 907",
+            "postcode": "4536 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "47354889"
+        },
+        {
+            "klant_id": 246,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 76",
+            "postcode": "5785 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "70719033"
+        },
+        {
+            "klant_id": 247,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 557",
+            "postcode": "4564 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "21311887"
+        },
+        {
+            "klant_id": 248,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 302",
+            "postcode": "5016 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "76092907"
+        },
+        {
+            "klant_id": 249,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 227",
+            "postcode": "2399 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "97770926"
+        },
+        {
+            "klant_id": 250,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 241",
+            "postcode": "7796 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33439600"
+        },
+        {
+            "klant_id": 251,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 591",
+            "postcode": "4074 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "45174816"
+        },
+        {
+            "klant_id": 252,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 248",
+            "postcode": "7577 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "83810425"
+        },
+        {
+            "klant_id": 253,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 560",
+            "postcode": "1670 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "77483704"
+        },
+        {
+            "klant_id": 254,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 458",
+            "postcode": "5081 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "53370773"
+        },
+        {
+            "klant_id": 255,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 234",
+            "postcode": "4704 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "46665425"
+        },
+        {
+            "klant_id": 256,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 389",
+            "postcode": "6393 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "74305013"
+        },
+        {
+            "klant_id": 257,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 228",
+            "postcode": "5750 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "65741073"
+        },
+        {
+            "klant_id": 258,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 124",
+            "postcode": "7146 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "46137691"
+        },
+        {
+            "klant_id": 259,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 282",
+            "postcode": "9263 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "17236419"
+        },
+        {
+            "klant_id": 260,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 956",
+            "postcode": "4011 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "83697186"
+        },
+        {
+            "klant_id": 261,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 261",
+            "postcode": "7279 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "29976706"
+        },
+        {
+            "klant_id": 262,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 507",
+            "postcode": "8528 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "30236514"
+        },
+        {
+            "klant_id": 263,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 710",
+            "postcode": "1537 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "69462978"
+        },
+        {
+            "klant_id": 264,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 612",
+            "postcode": "8188 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "35923547"
+        },
+        {
+            "klant_id": 265,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 208",
+            "postcode": "4676 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "50140023"
+        },
+        {
+            "klant_id": 266,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 847",
+            "postcode": "5031 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "83006818"
+        },
+        {
+            "klant_id": 267,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 962",
+            "postcode": "9163 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "89119815"
+        },
+        {
+            "klant_id": 268,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 708",
+            "postcode": "4794 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "31445903"
+        },
+        {
+            "klant_id": 269,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 556",
+            "postcode": "6176 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "35411342"
+        },
+        {
+            "klant_id": 270,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 719",
+            "postcode": "2823 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "87500665"
+        },
+        {
+            "klant_id": 271,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 715",
+            "postcode": "3953 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "95576207"
+        },
+        {
+            "klant_id": 272,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 542",
+            "postcode": "1392 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "79806751"
+        },
+        {
+            "klant_id": 273,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 738",
+            "postcode": "8275 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "59530378"
+        },
+        {
+            "klant_id": 274,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 759",
+            "postcode": "8948 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "91595565"
+        },
+        {
+            "klant_id": 275,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 211",
+            "postcode": "9125 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "91483886"
+        },
+        {
+            "klant_id": 276,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 751",
+            "postcode": "9518 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "54589767"
+        },
+        {
+            "klant_id": 277,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 110",
+            "postcode": "3602 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "87798919"
+        },
+        {
+            "klant_id": 278,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 126",
+            "postcode": "8044 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "13554691"
+        },
+        {
+            "klant_id": 279,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 202",
+            "postcode": "7452 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "90698788"
+        },
+        {
+            "klant_id": 280,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 609",
+            "postcode": "3326 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "43064614"
+        },
+        {
+            "klant_id": 281,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 504",
+            "postcode": "9909 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "36938432"
+        },
+        {
+            "klant_id": 282,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 779",
+            "postcode": "8353 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "26817501"
+        },
+        {
+            "klant_id": 283,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 66",
+            "postcode": "6626 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "41399056"
+        },
+        {
+            "klant_id": 284,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 151",
+            "postcode": "6519 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "77802662"
+        },
+        {
+            "klant_id": 285,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 309",
+            "postcode": "6065 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "22170775"
+        },
+        {
+            "klant_id": 286,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 445",
+            "postcode": "9770 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "55790048"
+        },
+        {
+            "klant_id": 287,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 560",
+            "postcode": "3178 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "26276905"
+        },
+        {
+            "klant_id": 288,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 369",
+            "postcode": "2879 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "21173492"
+        },
+        {
+            "klant_id": 289,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 964",
+            "postcode": "3305 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "18291820"
+        },
+        {
+            "klant_id": 290,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 263",
+            "postcode": "4080 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "17520693"
+        },
+        {
+            "klant_id": 291,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 769",
+            "postcode": "8237 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "37560187"
+        },
+        {
+            "klant_id": 292,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 196",
+            "postcode": "5108 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "40599603"
+        },
+        {
+            "klant_id": 293,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 446",
+            "postcode": "8053 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "87660006"
+        },
+        {
+            "klant_id": 294,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 677",
+            "postcode": "9863 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "45087896"
+        },
+        {
+            "klant_id": 295,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 407",
+            "postcode": "9492 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "62012811"
+        },
+        {
+            "klant_id": 296,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 477",
+            "postcode": "6964 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "18861306"
+        },
+        {
+            "klant_id": 297,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 244",
+            "postcode": "6887 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "78203287"
+        },
+        {
+            "klant_id": 298,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 562",
+            "postcode": "8875 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "69447025"
+        },
+        {
+            "klant_id": 299,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 972",
+            "postcode": "3728 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "56886297"
+        },
+        {
+            "klant_id": 300,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 741",
+            "postcode": "4397 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "90403446"
+        },
+        {
+            "klant_id": 301,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 234",
+            "postcode": "9139 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "73927748"
+        },
+        {
+            "klant_id": 302,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 277",
+            "postcode": "1772 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "16863090"
+        },
+        {
+            "klant_id": 303,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 699",
+            "postcode": "7294 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "74644432"
+        },
+        {
+            "klant_id": 304,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 180",
+            "postcode": "4532 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "44077316"
+        },
+        {
+            "klant_id": 305,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 364",
+            "postcode": "6638 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "64990119"
+        },
+        {
+            "klant_id": 306,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 724",
+            "postcode": "6294 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "12811031"
+        },
+        {
+            "klant_id": 307,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 877",
+            "postcode": "7423 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "50089410"
+        },
+        {
+            "klant_id": 308,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 968",
+            "postcode": "6635 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "32358876"
+        },
+        {
+            "klant_id": 309,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 839",
+            "postcode": "9114 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "34415662"
+        },
+        {
+            "klant_id": 310,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 712",
+            "postcode": "2274 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "71878047"
+        },
+        {
+            "klant_id": 311,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 505",
+            "postcode": "5499 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "40892000"
+        },
+        {
+            "klant_id": 312,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 379",
+            "postcode": "1590 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "87435587"
+        },
+        {
+            "klant_id": 313,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 331",
+            "postcode": "5404 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "89756963"
+        },
+        {
+            "klant_id": 314,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 745",
+            "postcode": "7433 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "18998844"
+        },
+        {
+            "klant_id": 315,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 145",
+            "postcode": "8843 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "89943200"
+        },
+        {
+            "klant_id": 316,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 716",
+            "postcode": "9147 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "22241811"
+        },
+        {
+            "klant_id": 317,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 792",
+            "postcode": "1117 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "67468574"
+        },
+        {
+            "klant_id": 318,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 84",
+            "postcode": "6722 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "79752970"
+        },
+        {
+            "klant_id": 319,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 592",
+            "postcode": "2570 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "78542594"
+        },
+        {
+            "klant_id": 320,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 90",
+            "postcode": "2282 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "66682735"
+        },
+        {
+            "klant_id": 321,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 971",
+            "postcode": "7176 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "51581129"
+        },
+        {
+            "klant_id": 322,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 757",
+            "postcode": "6726 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "69791833"
+        },
+        {
+            "klant_id": 323,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 545",
+            "postcode": "3058 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "20830473"
+        },
+        {
+            "klant_id": 324,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 454",
+            "postcode": "8945 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "65838058"
+        },
+        {
+            "klant_id": 325,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 70",
+            "postcode": "6833 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "16109101"
+        },
+        {
+            "klant_id": 326,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 366",
+            "postcode": "6311 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "30477296"
+        },
+        {
+            "klant_id": 327,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 77",
+            "postcode": "1210 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "37304314"
+        },
+        {
+            "klant_id": 328,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 596",
+            "postcode": "6543 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "41128536"
+        },
+        {
+            "klant_id": 329,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 421",
+            "postcode": "4376 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "93912185"
+        },
+        {
+            "klant_id": 330,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 269",
+            "postcode": "3598 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "33081666"
+        },
+        {
+            "klant_id": 331,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 98",
+            "postcode": "3347 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "83240759"
+        },
+        {
+            "klant_id": 332,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 584",
+            "postcode": "8898 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "61294800"
+        },
+        {
+            "klant_id": 333,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 478",
+            "postcode": "2331 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "38887734"
+        },
+        {
+            "klant_id": 334,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 316",
+            "postcode": "4111 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "11320289"
+        },
+        {
+            "klant_id": 335,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 406",
+            "postcode": "1449 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "50874822"
+        },
+        {
+            "klant_id": 336,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 313",
+            "postcode": "1322 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "92527962"
+        },
+        {
+            "klant_id": 337,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 794",
+            "postcode": "4419 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "79128008"
+        },
+        {
+            "klant_id": 338,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 442",
+            "postcode": "1531 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "42413860"
+        },
+        {
+            "klant_id": 339,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 102",
+            "postcode": "2685 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "68647180"
+        },
+        {
+            "klant_id": 340,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 579",
+            "postcode": "9894 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "11636995"
+        },
+        {
+            "klant_id": 341,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 399",
+            "postcode": "2176 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "12584121"
+        },
+        {
+            "klant_id": 342,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 398",
+            "postcode": "8046 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "65736023"
+        },
+        {
+            "klant_id": 343,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 213",
+            "postcode": "8905 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "34126333"
+        },
+        {
+            "klant_id": 344,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 713",
+            "postcode": "5912 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "18151248"
+        },
+        {
+            "klant_id": 345,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 505",
+            "postcode": "4058 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "97402376"
+        },
+        {
+            "klant_id": 346,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 133",
+            "postcode": "8566 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33406522"
+        },
+        {
+            "klant_id": 347,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 933",
+            "postcode": "7163 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "44133155"
+        },
+        {
+            "klant_id": 348,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 854",
+            "postcode": "9736 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "89936328"
+        },
+        {
+            "klant_id": 349,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 110",
+            "postcode": "3362 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "63191515"
+        },
+        {
+            "klant_id": 350,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 919",
+            "postcode": "9772 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "15674806"
+        },
+        {
+            "klant_id": 351,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 62",
+            "postcode": "4621 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "48837717"
+        },
+        {
+            "klant_id": 352,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 752",
+            "postcode": "8704 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "46292977"
+        },
+        {
+            "klant_id": 353,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 212",
+            "postcode": "1891 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "94309726"
+        },
+        {
+            "klant_id": 354,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 994",
+            "postcode": "6915 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "87841363"
+        },
+        {
+            "klant_id": 355,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 819",
+            "postcode": "4501 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "71448435"
+        },
+        {
+            "klant_id": 356,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 564",
+            "postcode": "6307 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "52777246"
+        },
+        {
+            "klant_id": 357,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 821",
+            "postcode": "8661 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "34624677"
+        },
+        {
+            "klant_id": 358,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 2",
+            "postcode": "8242 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "64971468"
+        },
+        {
+            "klant_id": 359,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 62",
+            "postcode": "6226 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "34749698"
+        },
+        {
+            "klant_id": 360,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 228",
+            "postcode": "2605 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "99654190"
+        },
+        {
+            "klant_id": 361,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 442",
+            "postcode": "8052 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "33079061"
+        },
+        {
+            "klant_id": 362,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 208",
+            "postcode": "1186 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "37882854"
+        },
+        {
+            "klant_id": 363,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 237",
+            "postcode": "3048 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "93006494"
+        },
+        {
+            "klant_id": 364,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 778",
+            "postcode": "9975 AC",
+            "stad": "Rotterdam",
+            "KVK_nummer": "92902910"
+        },
+        {
+            "klant_id": 365,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 815",
+            "postcode": "6446 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "95064696"
+        },
+        {
+            "klant_id": 366,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 581",
+            "postcode": "8305 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "59057450"
+        },
+        {
+            "klant_id": 367,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 67",
+            "postcode": "6836 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "95453627"
+        },
+        {
+            "klant_id": 368,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 567",
+            "postcode": "3611 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "89654236"
+        },
+        {
+            "klant_id": 369,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 560",
+            "postcode": "5112 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "44912198"
+        },
+        {
+            "klant_id": 370,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 133",
+            "postcode": "3597 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "97350354"
+        },
+        {
+            "klant_id": 371,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 973",
+            "postcode": "3690 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "64587434"
+        },
+        {
+            "klant_id": 372,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 570",
+            "postcode": "6008 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "38265666"
+        },
+        {
+            "klant_id": 373,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 608",
+            "postcode": "3042 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "20709339"
+        },
+        {
+            "klant_id": 374,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 61",
+            "postcode": "6891 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "66406074"
+        },
+        {
+            "klant_id": 375,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 230",
+            "postcode": "8050 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "17696401"
+        },
+        {
+            "klant_id": 376,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 438",
+            "postcode": "9958 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "70244195"
+        },
+        {
+            "klant_id": 377,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 677",
+            "postcode": "3901 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "85722265"
+        },
+        {
+            "klant_id": 378,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 510",
+            "postcode": "6402 AB",
+            "stad": "Amsterdam",
+            "KVK_nummer": "45469201"
+        },
+        {
+            "klant_id": 379,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 27",
+            "postcode": "2920 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "82788841"
+        },
+        {
+            "klant_id": 380,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 365",
+            "postcode": "6497 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "90426111"
+        },
+        {
+            "klant_id": 381,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 638",
+            "postcode": "5432 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "52999935"
+        },
+        {
+            "klant_id": 382,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 284",
+            "postcode": "9854 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "67259318"
+        },
+        {
+            "klant_id": 383,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 735",
+            "postcode": "6949 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "11694517"
+        },
+        {
+            "klant_id": 384,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 374",
+            "postcode": "6027 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "96279279"
+        },
+        {
+            "klant_id": 385,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 402",
+            "postcode": "6629 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "20316690"
+        },
+        {
+            "klant_id": 386,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 307",
+            "postcode": "6681 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "40902442"
+        },
+        {
+            "klant_id": 387,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Schoolstraat 383",
+            "postcode": "1962 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "25158344"
+        },
+        {
+            "klant_id": 388,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 531",
+            "postcode": "5236 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "46469204"
+        },
+        {
+            "klant_id": 389,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Kerkstraat 732",
+            "postcode": "1903 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "24586209"
+        },
+        {
+            "klant_id": 390,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Kerkstraat 347",
+            "postcode": "6068 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "90979176"
+        },
+        {
+            "klant_id": 391,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 301",
+            "postcode": "2996 AC",
+            "stad": "Utrecht",
+            "KVK_nummer": "20296404"
+        },
+        {
+            "klant_id": 392,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 976",
+            "postcode": "3205 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "80568003"
+        },
+        {
+            "klant_id": 393,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Hoofdstraat 629",
+            "postcode": "5874 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "32793133"
+        },
+        {
+            "klant_id": 394,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 154",
+            "postcode": "5575 AB",
+            "stad": "Rotterdam",
+            "KVK_nummer": "84203961"
+        },
+        {
+            "klant_id": 395,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 904",
+            "postcode": "7213 AA",
+            "stad": "Rotterdam",
+            "KVK_nummer": "83822508"
+        },
+        {
+            "klant_id": 396,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 155",
+            "postcode": "2806 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "99167751"
+        },
+        {
+            "klant_id": 397,
+            "naam": "PC Saturnus B.V.",
+            "adres": "Hoofdstraat 488",
+            "postcode": "4872 AC",
+            "stad": "Amsterdam",
+            "KVK_nummer": "70602624"
+        },
+        {
+            "klant_id": 398,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Kerkstraat 991",
+            "postcode": "5328 AA",
+            "stad": "Utrecht",
+            "KVK_nummer": "71370977"
+        },
+        {
+            "klant_id": 399,
+            "naam": "PC Sputnik B.V.",
+            "adres": "Schoolstraat 173",
+            "postcode": "6045 AB",
+            "stad": "Utrecht",
+            "KVK_nummer": "41794185"
+        },
+        {
+            "klant_id": 400,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Schoolstraat 359",
+            "postcode": "8432 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "95277453"
+        },
+        {
+            "klant_id": 401,
+            "naam": "PC Jupiter B.V.",
+            "adres": "Hoofdstraat 108",
+            "postcode": "1589 AA",
+            "stad": "Amsterdam",
+            "KVK_nummer": "36821164"
+        }
+    ]
+}
