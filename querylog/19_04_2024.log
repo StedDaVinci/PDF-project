@@ -1,3 +1,5 @@
 select * from klanten; #10:16:10@database.db
 select * from facturen; #10:16:49@database.db
 select * from factuurregels; #10:17:11@database.db
+select * from facturen; #10:27:51@database.db
+select * from facturen; #10:28:18@database.db

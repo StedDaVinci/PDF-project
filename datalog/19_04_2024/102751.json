@@ -1,0 +1,2813 @@
+{
+    "query": "select * from facturen",
+    "resultcount": 401,
+    "result": [
+        {
+            "factuur_id": 1,
+            "factuurnummer": "2002-519",
+            "factuurdatum": "15-11-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 1
+        },
+        {
+            "factuur_id": 2,
+            "factuurnummer": "2012-694",
+            "factuurdatum": "08-04-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 2
+        },
+        {
+            "factuur_id": 3,
+            "factuurnummer": "2008-295",
+            "factuurdatum": "20-11-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 3
+        },
+        {
+            "factuur_id": 4,
+            "factuurnummer": "2016-659",
+            "factuurdatum": "11-09-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 4
+        },
+        {
+            "factuur_id": 5,
+            "factuurnummer": "2005-924",
+            "factuurdatum": "03-12-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 5
+        },
+        {
+            "factuur_id": 6,
+            "factuurnummer": "2023-854",
+            "factuurdatum": "01-03-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 6
+        },
+        {
+            "factuur_id": 7,
+            "factuurnummer": "2018-118",
+            "factuurdatum": "14-04-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 7
+        },
+        {
+            "factuur_id": 8,
+            "factuurnummer": "2019-909",
+            "factuurdatum": "18-02-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 8
+        },
+        {
+            "factuur_id": 9,
+            "factuurnummer": "2011-449",
+            "factuurdatum": "04-04-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 9
+        },
+        {
+            "factuur_id": 10,
+            "factuurnummer": "2012-790",
+            "factuurdatum": "19-10-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 10
+        },
+        {
+            "factuur_id": 11,
+            "factuurnummer": "2021-373",
+            "factuurdatum": "21-07-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 11
+        },
+        {
+            "factuur_id": 12,
+            "factuurnummer": "2009-391",
+            "factuurdatum": "08-05-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 12
+        },
+        {
+            "factuur_id": 13,
+            "factuurnummer": "2004-089",
+            "factuurdatum": "11-11-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 13
+        },
+        {
+            "factuur_id": 14,
+            "factuurnummer": "2009-145",
+            "factuurdatum": "05-05-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 14
+        },
+        {
+            "factuur_id": 15,
+            "factuurnummer": "2023-638",
+            "factuurdatum": "06-08-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 15
+        },
+        {
+            "factuur_id": 16,
+            "factuurnummer": "2017-423",
+            "factuurdatum": "07-02-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 16
+        },
+        {
+            "factuur_id": 17,
+            "factuurnummer": "2000-506",
+            "factuurdatum": "15-05-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 17
+        },
+        {
+            "factuur_id": 18,
+            "factuurnummer": "2017-835",
+            "factuurdatum": "17-05-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 18
+        },
+        {
+            "factuur_id": 19,
+            "factuurnummer": "2022-907",
+            "factuurdatum": "17-04-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 19
+        },
+        {
+            "factuur_id": 20,
+            "factuurnummer": "2018-529",
+            "factuurdatum": "03-01-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 20
+        },
+        {
+            "factuur_id": 21,
+            "factuurnummer": "2011-490",
+            "factuurdatum": "08-10-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 21
+        },
+        {
+            "factuur_id": 22,
+            "factuurnummer": "2016-792",
+            "factuurdatum": "02-04-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 22
+        },
+        {
+            "factuur_id": 23,
+            "factuurnummer": "2021-646",
+            "factuurdatum": "14-02-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 23
+        },
+        {
+            "factuur_id": 24,
+            "factuurnummer": "2008-974",
+            "factuurdatum": "08-07-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 24
+        },
+        {
+            "factuur_id": 25,
+            "factuurnummer": "2003-082",
+            "factuurdatum": "19-02-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 25
+        },
+        {
+            "factuur_id": 26,
+            "factuurnummer": "2004-857",
+            "factuurdatum": "17-08-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 26
+        },
+        {
+            "factuur_id": 27,
+            "factuurnummer": "2024-263",
+            "factuurdatum": "05-01-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 27
+        },
+        {
+            "factuur_id": 28,
+            "factuurnummer": "2004-154",
+            "factuurdatum": "04-09-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 28
+        },
+        {
+            "factuur_id": 29,
+            "factuurnummer": "2009-759",
+            "factuurdatum": "20-06-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 29
+        },
+        {
+            "factuur_id": 30,
+            "factuurnummer": "2022-927",
+            "factuurdatum": "02-11-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 30
+        },
+        {
+            "factuur_id": 31,
+            "factuurnummer": "2021-492",
+            "factuurdatum": "12-01-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 31
+        },
+        {
+            "factuur_id": 32,
+            "factuurnummer": "2003-485",
+            "factuurdatum": "19-10-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 32
+        },
+        {
+            "factuur_id": 33,
+            "factuurnummer": "2005-457",
+            "factuurdatum": "21-08-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 33
+        },
+        {
+            "factuur_id": 34,
+            "factuurnummer": "2021-607",
+            "factuurdatum": "24-04-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 34
+        },
+        {
+            "factuur_id": 35,
+            "factuurnummer": "2001-863",
+            "factuurdatum": "23-04-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 35
+        },
+        {
+            "factuur_id": 36,
+            "factuurnummer": "2024-672",
+            "factuurdatum": "10-06-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 36
+        },
+        {
+            "factuur_id": 37,
+            "factuurnummer": "2014-277",
+            "factuurdatum": "08-04-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 37
+        },
+        {
+            "factuur_id": 38,
+            "factuurnummer": "2001-567",
+            "factuurdatum": "15-05-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 38
+        },
+        {
+            "factuur_id": 39,
+            "factuurnummer": "2009-827",
+            "factuurdatum": "27-10-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 39
+        },
+        {
+            "factuur_id": 40,
+            "factuurnummer": "2011-412",
+            "factuurdatum": "01-04-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 40
+        },
+        {
+            "factuur_id": 41,
+            "factuurnummer": "2000-459",
+            "factuurdatum": "14-04-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 41
+        },
+        {
+            "factuur_id": 42,
+            "factuurnummer": "2000-377",
+            "factuurdatum": "21-06-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 42
+        },
+        {
+            "factuur_id": 43,
+            "factuurnummer": "2003-391",
+            "factuurdatum": "11-04-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 43
+        },
+        {
+            "factuur_id": 44,
+            "factuurnummer": "2021-543",
+            "factuurdatum": "17-03-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 44
+        },
+        {
+            "factuur_id": 45,
+            "factuurnummer": "2006-599",
+            "factuurdatum": "13-04-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 45
+        },
+        {
+            "factuur_id": 46,
+            "factuurnummer": "2021-955",
+            "factuurdatum": "16-08-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 46
+        },
+        {
+            "factuur_id": 47,
+            "factuurnummer": "2018-786",
+            "factuurdatum": "28-12-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 47
+        },
+        {
+            "factuur_id": 48,
+            "factuurnummer": "2024-424",
+            "factuurdatum": "02-12-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 48
+        },
+        {
+            "factuur_id": 49,
+            "factuurnummer": "2011-541",
+            "factuurdatum": "25-01-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 49
+        },
+        {
+            "factuur_id": 50,
+            "factuurnummer": "2015-991",
+            "factuurdatum": "02-08-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 50
+        },
+        {
+            "factuur_id": 51,
+            "factuurnummer": "2018-670",
+            "factuurdatum": "15-12-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 51
+        },
+        {
+            "factuur_id": 52,
+            "factuurnummer": "2000-385",
+            "factuurdatum": "28-01-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 52
+        },
+        {
+            "factuur_id": 53,
+            "factuurnummer": "2020-548",
+            "factuurdatum": "16-07-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 53
+        },
+        {
+            "factuur_id": 54,
+            "factuurnummer": "2001-385",
+            "factuurdatum": "17-08-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 54
+        },
+        {
+            "factuur_id": 55,
+            "factuurnummer": "2001-413",
+            "factuurdatum": "27-07-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 55
+        },
+        {
+            "factuur_id": 56,
+            "factuurnummer": "2016-473",
+            "factuurdatum": "21-03-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 56
+        },
+        {
+            "factuur_id": 57,
+            "factuurnummer": "2009-545",
+            "factuurdatum": "25-05-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 57
+        },
+        {
+            "factuur_id": 58,
+            "factuurnummer": "2013-040",
+            "factuurdatum": "19-09-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 58
+        },
+        {
+            "factuur_id": 59,
+            "factuurnummer": "2014-712",
+            "factuurdatum": "05-07-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 59
+        },
+        {
+            "factuur_id": 60,
+            "factuurnummer": "2007-402",
+            "factuurdatum": "23-01-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 60
+        },
+        {
+            "factuur_id": 61,
+            "factuurnummer": "2015-440",
+            "factuurdatum": "15-04-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 61
+        },
+        {
+            "factuur_id": 62,
+            "factuurnummer": "2006-906",
+            "factuurdatum": "17-07-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 62
+        },
+        {
+            "factuur_id": 63,
+            "factuurnummer": "2018-830",
+            "factuurdatum": "25-07-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 63
+        },
+        {
+            "factuur_id": 64,
+            "factuurnummer": "2019-830",
+            "factuurdatum": "11-11-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 64
+        },
+        {
+            "factuur_id": 65,
+            "factuurnummer": "2006-140",
+            "factuurdatum": "05-03-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 65
+        },
+        {
+            "factuur_id": 66,
+            "factuurnummer": "2006-793",
+            "factuurdatum": "02-12-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 66
+        },
+        {
+            "factuur_id": 67,
+            "factuurnummer": "2023-490",
+            "factuurdatum": "24-10-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 67
+        },
+        {
+            "factuur_id": 68,
+            "factuurnummer": "2024-268",
+            "factuurdatum": "22-01-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 68
+        },
+        {
+            "factuur_id": 69,
+            "factuurnummer": "2016-408",
+            "factuurdatum": "21-04-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 69
+        },
+        {
+            "factuur_id": 70,
+            "factuurnummer": "2001-038",
+            "factuurdatum": "18-06-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 70
+        },
+        {
+            "factuur_id": 71,
+            "factuurnummer": "2010-024",
+            "factuurdatum": "12-04-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 71
+        },
+        {
+            "factuur_id": 72,
+            "factuurnummer": "2012-492",
+            "factuurdatum": "13-06-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 72
+        },
+        {
+            "factuur_id": 73,
+            "factuurnummer": "2021-564",
+            "factuurdatum": "14-05-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 73
+        },
+        {
+            "factuur_id": 74,
+            "factuurnummer": "2006-101",
+            "factuurdatum": "13-06-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 74
+        },
+        {
+            "factuur_id": 75,
+            "factuurnummer": "2004-221",
+            "factuurdatum": "13-09-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 75
+        },
+        {
+            "factuur_id": 76,
+            "factuurnummer": "2015-143",
+            "factuurdatum": "11-04-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 76
+        },
+        {
+            "factuur_id": 77,
+            "factuurnummer": "2004-606",
+            "factuurdatum": "28-07-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 77
+        },
+        {
+            "factuur_id": 78,
+            "factuurnummer": "2011-053",
+            "factuurdatum": "15-04-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 78
+        },
+        {
+            "factuur_id": 79,
+            "factuurnummer": "2006-199",
+            "factuurdatum": "04-04-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 79
+        },
+        {
+            "factuur_id": 80,
+            "factuurnummer": "2014-163",
+            "factuurdatum": "23-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 80
+        },
+        {
+            "factuur_id": 81,
+            "factuurnummer": "2002-553",
+            "factuurdatum": "08-11-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 81
+        },
+        {
+            "factuur_id": 82,
+            "factuurnummer": "2018-447",
+            "factuurdatum": "04-10-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 82
+        },
+        {
+            "factuur_id": 83,
+            "factuurnummer": "2021-051",
+            "factuurdatum": "10-05-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 83
+        },
+        {
+            "factuur_id": 84,
+            "factuurnummer": "2015-525",
+            "factuurdatum": "17-09-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 84
+        },
+        {
+            "factuur_id": 85,
+            "factuurnummer": "2016-039",
+            "factuurdatum": "14-07-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 85
+        },
+        {
+            "factuur_id": 86,
+            "factuurnummer": "2013-277",
+            "factuurdatum": "10-04-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 86
+        },
+        {
+            "factuur_id": 87,
+            "factuurnummer": "2017-486",
+            "factuurdatum": "19-05-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 87
+        },
+        {
+            "factuur_id": 88,
+            "factuurnummer": "2009-363",
+            "factuurdatum": "24-06-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 88
+        },
+        {
+            "factuur_id": 89,
+            "factuurnummer": "2008-226",
+            "factuurdatum": "27-01-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 89
+        },
+        {
+            "factuur_id": 90,
+            "factuurnummer": "2020-339",
+            "factuurdatum": "22-07-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 90
+        },
+        {
+            "factuur_id": 91,
+            "factuurnummer": "2023-449",
+            "factuurdatum": "04-08-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 91
+        },
+        {
+            "factuur_id": 92,
+            "factuurnummer": "2017-150",
+            "factuurdatum": "20-11-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 92
+        },
+        {
+            "factuur_id": 93,
+            "factuurnummer": "2000-537",
+            "factuurdatum": "16-09-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 93
+        },
+        {
+            "factuur_id": 94,
+            "factuurnummer": "2014-948",
+            "factuurdatum": "02-07-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 94
+        },
+        {
+            "factuur_id": 95,
+            "factuurnummer": "2014-677",
+            "factuurdatum": "16-10-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 95
+        },
+        {
+            "factuur_id": 96,
+            "factuurnummer": "2005-295",
+            "factuurdatum": "22-12-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 96
+        },
+        {
+            "factuur_id": 97,
+            "factuurnummer": "2003-528",
+            "factuurdatum": "14-11-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 97
+        },
+        {
+            "factuur_id": 98,
+            "factuurnummer": "2009-861",
+            "factuurdatum": "10-10-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 98
+        },
+        {
+            "factuur_id": 99,
+            "factuurnummer": "2006-224",
+            "factuurdatum": "16-04-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 99
+        },
+        {
+            "factuur_id": 100,
+            "factuurnummer": "2002-590",
+            "factuurdatum": "06-02-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 100
+        },
+        {
+            "factuur_id": 101,
+            "factuurnummer": "2023-977",
+            "factuurdatum": "02-10-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 101
+        },
+        {
+            "factuur_id": 102,
+            "factuurnummer": "2015-772",
+            "factuurdatum": "25-11-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 102
+        },
+        {
+            "factuur_id": 103,
+            "factuurnummer": "2024-818",
+            "factuurdatum": "01-01-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 103
+        },
+        {
+            "factuur_id": 104,
+            "factuurnummer": "2000-961",
+            "factuurdatum": "01-09-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 104
+        },
+        {
+            "factuur_id": 105,
+            "factuurnummer": "2012-098",
+            "factuurdatum": "26-07-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 105
+        },
+        {
+            "factuur_id": 106,
+            "factuurnummer": "2012-562",
+            "factuurdatum": "04-12-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 106
+        },
+        {
+            "factuur_id": 107,
+            "factuurnummer": "2002-315",
+            "factuurdatum": "05-08-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 107
+        },
+        {
+            "factuur_id": 108,
+            "factuurnummer": "2008-026",
+            "factuurdatum": "16-12-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 108
+        },
+        {
+            "factuur_id": 109,
+            "factuurnummer": "2018-714",
+            "factuurdatum": "20-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 109
+        },
+        {
+            "factuur_id": 110,
+            "factuurnummer": "2019-714",
+            "factuurdatum": "14-07-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 110
+        },
+        {
+            "factuur_id": 111,
+            "factuurnummer": "2004-847",
+            "factuurdatum": "23-04-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 111
+        },
+        {
+            "factuur_id": 112,
+            "factuurnummer": "2015-363",
+            "factuurdatum": "02-06-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 112
+        },
+        {
+            "factuur_id": 113,
+            "factuurnummer": "2021-482",
+            "factuurdatum": "23-04-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 113
+        },
+        {
+            "factuur_id": 114,
+            "factuurnummer": "2012-431",
+            "factuurdatum": "24-07-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 114
+        },
+        {
+            "factuur_id": 115,
+            "factuurnummer": "2021-601",
+            "factuurdatum": "25-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 115
+        },
+        {
+            "factuur_id": 116,
+            "factuurnummer": "2006-321",
+            "factuurdatum": "16-02-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 116
+        },
+        {
+            "factuur_id": 117,
+            "factuurnummer": "2001-074",
+            "factuurdatum": "23-07-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 117
+        },
+        {
+            "factuur_id": 118,
+            "factuurnummer": "2021-504",
+            "factuurdatum": "05-05-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 118
+        },
+        {
+            "factuur_id": 119,
+            "factuurnummer": "2001-776",
+            "factuurdatum": "08-01-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 119
+        },
+        {
+            "factuur_id": 120,
+            "factuurnummer": "2023-274",
+            "factuurdatum": "20-08-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 120
+        },
+        {
+            "factuur_id": 121,
+            "factuurnummer": "2021-292",
+            "factuurdatum": "17-11-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 121
+        },
+        {
+            "factuur_id": 122,
+            "factuurnummer": "2001-849",
+            "factuurdatum": "09-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 122
+        },
+        {
+            "factuur_id": 123,
+            "factuurnummer": "2002-905",
+            "factuurdatum": "16-01-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 123
+        },
+        {
+            "factuur_id": 124,
+            "factuurnummer": "2001-058",
+            "factuurdatum": "08-03-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 124
+        },
+        {
+            "factuur_id": 125,
+            "factuurnummer": "2019-283",
+            "factuurdatum": "19-05-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 125
+        },
+        {
+            "factuur_id": 126,
+            "factuurnummer": "2012-763",
+            "factuurdatum": "25-02-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 126
+        },
+        {
+            "factuur_id": 127,
+            "factuurnummer": "2000-222",
+            "factuurdatum": "17-10-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 127
+        },
+        {
+            "factuur_id": 128,
+            "factuurnummer": "2023-235",
+            "factuurdatum": "27-08-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 128
+        },
+        {
+            "factuur_id": 129,
+            "factuurnummer": "2013-630",
+            "factuurdatum": "22-05-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 129
+        },
+        {
+            "factuur_id": 130,
+            "factuurnummer": "2011-286",
+            "factuurdatum": "07-08-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 130
+        },
+        {
+            "factuur_id": 131,
+            "factuurnummer": "2010-639",
+            "factuurdatum": "24-09-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 131
+        },
+        {
+            "factuur_id": 132,
+            "factuurnummer": "2024-619",
+            "factuurdatum": "02-05-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 132
+        },
+        {
+            "factuur_id": 133,
+            "factuurnummer": "2019-692",
+            "factuurdatum": "23-11-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 133
+        },
+        {
+            "factuur_id": 134,
+            "factuurnummer": "2015-070",
+            "factuurdatum": "26-09-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 134
+        },
+        {
+            "factuur_id": 135,
+            "factuurnummer": "2023-645",
+            "factuurdatum": "20-09-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 135
+        },
+        {
+            "factuur_id": 136,
+            "factuurnummer": "2005-220",
+            "factuurdatum": "01-01-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 136
+        },
+        {
+            "factuur_id": 137,
+            "factuurnummer": "2007-946",
+            "factuurdatum": "11-06-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 137
+        },
+        {
+            "factuur_id": 138,
+            "factuurnummer": "2015-284",
+            "factuurdatum": "20-03-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 138
+        },
+        {
+            "factuur_id": 139,
+            "factuurnummer": "2004-298",
+            "factuurdatum": "21-03-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 139
+        },
+        {
+            "factuur_id": 140,
+            "factuurnummer": "2005-762",
+            "factuurdatum": "06-07-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 140
+        },
+        {
+            "factuur_id": 141,
+            "factuurnummer": "2015-115",
+            "factuurdatum": "02-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 141
+        },
+        {
+            "factuur_id": 142,
+            "factuurnummer": "2023-612",
+            "factuurdatum": "27-02-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 142
+        },
+        {
+            "factuur_id": 143,
+            "factuurnummer": "2012-997",
+            "factuurdatum": "17-06-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 143
+        },
+        {
+            "factuur_id": 144,
+            "factuurnummer": "2010-137",
+            "factuurdatum": "13-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 144
+        },
+        {
+            "factuur_id": 145,
+            "factuurnummer": "2001-490",
+            "factuurdatum": "05-12-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 145
+        },
+        {
+            "factuur_id": 146,
+            "factuurnummer": "2003-163",
+            "factuurdatum": "01-03-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 146
+        },
+        {
+            "factuur_id": 147,
+            "factuurnummer": "2013-651",
+            "factuurdatum": "22-01-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 147
+        },
+        {
+            "factuur_id": 148,
+            "factuurnummer": "2017-736",
+            "factuurdatum": "28-04-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 148
+        },
+        {
+            "factuur_id": 149,
+            "factuurnummer": "2007-907",
+            "factuurdatum": "27-10-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 149
+        },
+        {
+            "factuur_id": 150,
+            "factuurnummer": "2007-395",
+            "factuurdatum": "28-07-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 150
+        },
+        {
+            "factuur_id": 151,
+            "factuurnummer": "2021-066",
+            "factuurdatum": "24-11-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 151
+        },
+        {
+            "factuur_id": 152,
+            "factuurnummer": "2009-657",
+            "factuurdatum": "08-09-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 152
+        },
+        {
+            "factuur_id": 153,
+            "factuurnummer": "2010-176",
+            "factuurdatum": "03-09-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 153
+        },
+        {
+            "factuur_id": 154,
+            "factuurnummer": "2001-453",
+            "factuurdatum": "10-11-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 154
+        },
+        {
+            "factuur_id": 155,
+            "factuurnummer": "2000-453",
+            "factuurdatum": "15-05-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 155
+        },
+        {
+            "factuur_id": 156,
+            "factuurnummer": "2001-146",
+            "factuurdatum": "27-12-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 156
+        },
+        {
+            "factuur_id": 157,
+            "factuurnummer": "2022-501",
+            "factuurdatum": "27-03-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 157
+        },
+        {
+            "factuur_id": 158,
+            "factuurnummer": "2017-034",
+            "factuurdatum": "03-07-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 158
+        },
+        {
+            "factuur_id": 159,
+            "factuurnummer": "2007-706",
+            "factuurdatum": "28-01-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 159
+        },
+        {
+            "factuur_id": 160,
+            "factuurnummer": "2010-766",
+            "factuurdatum": "27-10-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 160
+        },
+        {
+            "factuur_id": 161,
+            "factuurnummer": "2001-111",
+            "factuurdatum": "02-07-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 161
+        },
+        {
+            "factuur_id": 162,
+            "factuurnummer": "2006-213",
+            "factuurdatum": "22-10-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 162
+        },
+        {
+            "factuur_id": 163,
+            "factuurnummer": "2024-068",
+            "factuurdatum": "24-09-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 163
+        },
+        {
+            "factuur_id": 164,
+            "factuurnummer": "2001-668",
+            "factuurdatum": "02-06-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 164
+        },
+        {
+            "factuur_id": 165,
+            "factuurnummer": "2004-563",
+            "factuurdatum": "01-01-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 165
+        },
+        {
+            "factuur_id": 166,
+            "factuurnummer": "2024-204",
+            "factuurdatum": "19-03-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 166
+        },
+        {
+            "factuur_id": 167,
+            "factuurnummer": "2018-149",
+            "factuurdatum": "05-10-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 167
+        },
+        {
+            "factuur_id": 168,
+            "factuurnummer": "2016-188",
+            "factuurdatum": "26-10-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 168
+        },
+        {
+            "factuur_id": 169,
+            "factuurnummer": "2020-375",
+            "factuurdatum": "13-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 169
+        },
+        {
+            "factuur_id": 170,
+            "factuurnummer": "2010-635",
+            "factuurdatum": "01-09-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 170
+        },
+        {
+            "factuur_id": 171,
+            "factuurnummer": "2002-948",
+            "factuurdatum": "27-03-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 171
+        },
+        {
+            "factuur_id": 172,
+            "factuurnummer": "2021-322",
+            "factuurdatum": "26-10-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 172
+        },
+        {
+            "factuur_id": 173,
+            "factuurnummer": "2000-150",
+            "factuurdatum": "05-12-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 173
+        },
+        {
+            "factuur_id": 174,
+            "factuurnummer": "2024-183",
+            "factuurdatum": "13-08-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 174
+        },
+        {
+            "factuur_id": 175,
+            "factuurnummer": "2010-818",
+            "factuurdatum": "28-02-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 175
+        },
+        {
+            "factuur_id": 176,
+            "factuurnummer": "2018-108",
+            "factuurdatum": "15-05-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 176
+        },
+        {
+            "factuur_id": 177,
+            "factuurnummer": "2003-121",
+            "factuurdatum": "23-09-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 177
+        },
+        {
+            "factuur_id": 178,
+            "factuurnummer": "2001-128",
+            "factuurdatum": "27-01-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 178
+        },
+        {
+            "factuur_id": 179,
+            "factuurnummer": "2012-756",
+            "factuurdatum": "16-04-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 179
+        },
+        {
+            "factuur_id": 180,
+            "factuurnummer": "2016-518",
+            "factuurdatum": "24-08-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 180
+        },
+        {
+            "factuur_id": 181,
+            "factuurnummer": "2024-682",
+            "factuurdatum": "11-06-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 181
+        },
+        {
+            "factuur_id": 182,
+            "factuurnummer": "2017-666",
+            "factuurdatum": "23-08-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 182
+        },
+        {
+            "factuur_id": 183,
+            "factuurnummer": "2024-790",
+            "factuurdatum": "11-03-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 183
+        },
+        {
+            "factuur_id": 184,
+            "factuurnummer": "2005-798",
+            "factuurdatum": "20-07-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 184
+        },
+        {
+            "factuur_id": 185,
+            "factuurnummer": "2022-650",
+            "factuurdatum": "28-01-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 185
+        },
+        {
+            "factuur_id": 186,
+            "factuurnummer": "2009-984",
+            "factuurdatum": "03-11-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 186
+        },
+        {
+            "factuur_id": 187,
+            "factuurnummer": "2018-189",
+            "factuurdatum": "22-06-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 187
+        },
+        {
+            "factuur_id": 188,
+            "factuurnummer": "2011-876",
+            "factuurdatum": "09-01-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 188
+        },
+        {
+            "factuur_id": 189,
+            "factuurnummer": "2019-189",
+            "factuurdatum": "15-04-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 189
+        },
+        {
+            "factuur_id": 190,
+            "factuurnummer": "2006-050",
+            "factuurdatum": "05-12-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 190
+        },
+        {
+            "factuur_id": 191,
+            "factuurnummer": "2016-826",
+            "factuurdatum": "27-08-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 191
+        },
+        {
+            "factuur_id": 192,
+            "factuurnummer": "2015-086",
+            "factuurdatum": "28-04-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 192
+        },
+        {
+            "factuur_id": 193,
+            "factuurnummer": "2011-765",
+            "factuurdatum": "13-09-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 193
+        },
+        {
+            "factuur_id": 194,
+            "factuurnummer": "2008-117",
+            "factuurdatum": "27-03-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 194
+        },
+        {
+            "factuur_id": 195,
+            "factuurnummer": "2008-681",
+            "factuurdatum": "12-05-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 195
+        },
+        {
+            "factuur_id": 196,
+            "factuurnummer": "2006-085",
+            "factuurdatum": "05-03-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 196
+        },
+        {
+            "factuur_id": 197,
+            "factuurnummer": "2024-354",
+            "factuurdatum": "21-04-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 197
+        },
+        {
+            "factuur_id": 198,
+            "factuurnummer": "2000-153",
+            "factuurdatum": "10-07-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 198
+        },
+        {
+            "factuur_id": 199,
+            "factuurnummer": "2008-510",
+            "factuurdatum": "22-01-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 199
+        },
+        {
+            "factuur_id": 200,
+            "factuurnummer": "2012-668",
+            "factuurdatum": "03-05-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 200
+        },
+        {
+            "factuur_id": 201,
+            "factuurnummer": "2005-521",
+            "factuurdatum": "25-05-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 201
+        },
+        {
+            "factuur_id": 202,
+            "factuurnummer": "2023-144",
+            "factuurdatum": "09-04-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 202
+        },
+        {
+            "factuur_id": 203,
+            "factuurnummer": "2003-336",
+            "factuurdatum": "18-02-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 203
+        },
+        {
+            "factuur_id": 204,
+            "factuurnummer": "2022-001",
+            "factuurdatum": "16-12-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 204
+        },
+        {
+            "factuur_id": 205,
+            "factuurnummer": "2004-940",
+            "factuurdatum": "17-02-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 205
+        },
+        {
+            "factuur_id": 206,
+            "factuurnummer": "2010-495",
+            "factuurdatum": "09-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 206
+        },
+        {
+            "factuur_id": 207,
+            "factuurnummer": "2019-193",
+            "factuurdatum": "03-02-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 207
+        },
+        {
+            "factuur_id": 208,
+            "factuurnummer": "2005-805",
+            "factuurdatum": "10-12-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 208
+        },
+        {
+            "factuur_id": 209,
+            "factuurnummer": "2001-431",
+            "factuurdatum": "19-11-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 209
+        },
+        {
+            "factuur_id": 210,
+            "factuurnummer": "2020-497",
+            "factuurdatum": "03-09-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 210
+        },
+        {
+            "factuur_id": 211,
+            "factuurnummer": "2011-587",
+            "factuurdatum": "10-12-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 211
+        },
+        {
+            "factuur_id": 212,
+            "factuurnummer": "2000-466",
+            "factuurdatum": "05-12-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 212
+        },
+        {
+            "factuur_id": 213,
+            "factuurnummer": "2020-751",
+            "factuurdatum": "24-11-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 213
+        },
+        {
+            "factuur_id": 214,
+            "factuurnummer": "2000-489",
+            "factuurdatum": "17-08-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 214
+        },
+        {
+            "factuur_id": 215,
+            "factuurnummer": "2011-968",
+            "factuurdatum": "10-10-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 215
+        },
+        {
+            "factuur_id": 216,
+            "factuurnummer": "2007-322",
+            "factuurdatum": "06-05-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 216
+        },
+        {
+            "factuur_id": 217,
+            "factuurnummer": "2000-923",
+            "factuurdatum": "20-06-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 217
+        },
+        {
+            "factuur_id": 218,
+            "factuurnummer": "2008-033",
+            "factuurdatum": "01-01-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 218
+        },
+        {
+            "factuur_id": 219,
+            "factuurnummer": "2007-549",
+            "factuurdatum": "19-08-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 219
+        },
+        {
+            "factuur_id": 220,
+            "factuurnummer": "2009-658",
+            "factuurdatum": "01-08-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 220
+        },
+        {
+            "factuur_id": 221,
+            "factuurnummer": "2014-622",
+            "factuurdatum": "07-02-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 221
+        },
+        {
+            "factuur_id": 222,
+            "factuurnummer": "2023-125",
+            "factuurdatum": "20-03-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 222
+        },
+        {
+            "factuur_id": 223,
+            "factuurnummer": "2000-132",
+            "factuurdatum": "27-11-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 223
+        },
+        {
+            "factuur_id": 224,
+            "factuurnummer": "2011-600",
+            "factuurdatum": "10-05-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 224
+        },
+        {
+            "factuur_id": 225,
+            "factuurnummer": "2004-184",
+            "factuurdatum": "23-02-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 225
+        },
+        {
+            "factuur_id": 226,
+            "factuurnummer": "2021-157",
+            "factuurdatum": "14-02-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 226
+        },
+        {
+            "factuur_id": 227,
+            "factuurnummer": "2015-966",
+            "factuurdatum": "07-03-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 227
+        },
+        {
+            "factuur_id": 228,
+            "factuurnummer": "2013-760",
+            "factuurdatum": "15-11-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 228
+        },
+        {
+            "factuur_id": 229,
+            "factuurnummer": "2016-191",
+            "factuurdatum": "15-08-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 229
+        },
+        {
+            "factuur_id": 230,
+            "factuurnummer": "2011-905",
+            "factuurdatum": "23-03-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 230
+        },
+        {
+            "factuur_id": 231,
+            "factuurnummer": "2007-066",
+            "factuurdatum": "12-06-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 231
+        },
+        {
+            "factuur_id": 232,
+            "factuurnummer": "2012-326",
+            "factuurdatum": "16-11-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 232
+        },
+        {
+            "factuur_id": 233,
+            "factuurnummer": "2010-397",
+            "factuurdatum": "03-09-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 233
+        },
+        {
+            "factuur_id": 234,
+            "factuurnummer": "2016-979",
+            "factuurdatum": "13-11-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 234
+        },
+        {
+            "factuur_id": 235,
+            "factuurnummer": "2011-682",
+            "factuurdatum": "22-06-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 235
+        },
+        {
+            "factuur_id": 236,
+            "factuurnummer": "2015-136",
+            "factuurdatum": "11-12-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 236
+        },
+        {
+            "factuur_id": 237,
+            "factuurnummer": "2020-639",
+            "factuurdatum": "04-08-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 237
+        },
+        {
+            "factuur_id": 238,
+            "factuurnummer": "2024-420",
+            "factuurdatum": "28-01-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 238
+        },
+        {
+            "factuur_id": 239,
+            "factuurnummer": "2022-667",
+            "factuurdatum": "14-01-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 239
+        },
+        {
+            "factuur_id": 240,
+            "factuurnummer": "2010-841",
+            "factuurdatum": "05-03-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 240
+        },
+        {
+            "factuur_id": 241,
+            "factuurnummer": "2017-939",
+            "factuurdatum": "25-07-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 241
+        },
+        {
+            "factuur_id": 242,
+            "factuurnummer": "2000-689",
+            "factuurdatum": "23-09-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 242
+        },
+        {
+            "factuur_id": 243,
+            "factuurnummer": "2019-901",
+            "factuurdatum": "09-08-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 243
+        },
+        {
+            "factuur_id": 244,
+            "factuurnummer": "2015-967",
+            "factuurdatum": "18-11-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 244
+        },
+        {
+            "factuur_id": 245,
+            "factuurnummer": "2023-299",
+            "factuurdatum": "26-06-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 245
+        },
+        {
+            "factuur_id": 246,
+            "factuurnummer": "2014-121",
+            "factuurdatum": "04-01-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 246
+        },
+        {
+            "factuur_id": 247,
+            "factuurnummer": "2011-416",
+            "factuurdatum": "20-01-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 247
+        },
+        {
+            "factuur_id": 248,
+            "factuurnummer": "2002-287",
+            "factuurdatum": "12-08-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 248
+        },
+        {
+            "factuur_id": 249,
+            "factuurnummer": "2001-133",
+            "factuurdatum": "02-06-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 249
+        },
+        {
+            "factuur_id": 250,
+            "factuurnummer": "2006-548",
+            "factuurdatum": "04-01-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 250
+        },
+        {
+            "factuur_id": 251,
+            "factuurnummer": "2002-706",
+            "factuurdatum": "05-12-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 251
+        },
+        {
+            "factuur_id": 252,
+            "factuurnummer": "2015-789",
+            "factuurdatum": "24-04-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 252
+        },
+        {
+            "factuur_id": 253,
+            "factuurnummer": "2003-213",
+            "factuurdatum": "17-05-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 253
+        },
+        {
+            "factuur_id": 254,
+            "factuurnummer": "2001-534",
+            "factuurdatum": "26-09-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 254
+        },
+        {
+            "factuur_id": 255,
+            "factuurnummer": "2009-198",
+            "factuurdatum": "17-01-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 255
+        },
+        {
+            "factuur_id": 256,
+            "factuurnummer": "2003-478",
+            "factuurdatum": "11-02-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 256
+        },
+        {
+            "factuur_id": 257,
+            "factuurnummer": "2013-219",
+            "factuurdatum": "25-08-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 257
+        },
+        {
+            "factuur_id": 258,
+            "factuurnummer": "2001-172",
+            "factuurdatum": "24-03-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 258
+        },
+        {
+            "factuur_id": 259,
+            "factuurnummer": "2002-194",
+            "factuurdatum": "16-03-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 259
+        },
+        {
+            "factuur_id": 260,
+            "factuurnummer": "2021-183",
+            "factuurdatum": "10-10-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 260
+        },
+        {
+            "factuur_id": 261,
+            "factuurnummer": "2019-983",
+            "factuurdatum": "21-06-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 261
+        },
+        {
+            "factuur_id": 262,
+            "factuurnummer": "2019-080",
+            "factuurdatum": "21-12-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 262
+        },
+        {
+            "factuur_id": 263,
+            "factuurnummer": "2023-427",
+            "factuurdatum": "26-09-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 263
+        },
+        {
+            "factuur_id": 264,
+            "factuurnummer": "2018-487",
+            "factuurdatum": "20-05-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 264
+        },
+        {
+            "factuur_id": 265,
+            "factuurnummer": "2023-450",
+            "factuurdatum": "17-01-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 265
+        },
+        {
+            "factuur_id": 266,
+            "factuurnummer": "2008-287",
+            "factuurdatum": "20-10-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 266
+        },
+        {
+            "factuur_id": 267,
+            "factuurnummer": "2023-779",
+            "factuurdatum": "10-02-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 267
+        },
+        {
+            "factuur_id": 268,
+            "factuurnummer": "2007-745",
+            "factuurdatum": "21-02-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 268
+        },
+        {
+            "factuur_id": 269,
+            "factuurnummer": "2005-577",
+            "factuurdatum": "14-08-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 269
+        },
+        {
+            "factuur_id": 270,
+            "factuurnummer": "2009-116",
+            "factuurdatum": "08-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 270
+        },
+        {
+            "factuur_id": 271,
+            "factuurnummer": "2022-104",
+            "factuurdatum": "24-03-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 271
+        },
+        {
+            "factuur_id": 272,
+            "factuurnummer": "2003-663",
+            "factuurdatum": "08-08-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 272
+        },
+        {
+            "factuur_id": 273,
+            "factuurnummer": "2006-568",
+            "factuurdatum": "06-06-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 273
+        },
+        {
+            "factuur_id": 274,
+            "factuurnummer": "2014-879",
+            "factuurdatum": "25-10-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 274
+        },
+        {
+            "factuur_id": 275,
+            "factuurnummer": "2014-204",
+            "factuurdatum": "22-04-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 275
+        },
+        {
+            "factuur_id": 276,
+            "factuurnummer": "2016-348",
+            "factuurdatum": "13-04-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 276
+        },
+        {
+            "factuur_id": 277,
+            "factuurnummer": "2022-295",
+            "factuurdatum": "08-05-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 277
+        },
+        {
+            "factuur_id": 278,
+            "factuurnummer": "2002-008",
+            "factuurdatum": "08-03-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 278
+        },
+        {
+            "factuur_id": 279,
+            "factuurnummer": "2016-061",
+            "factuurdatum": "14-02-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 279
+        },
+        {
+            "factuur_id": 280,
+            "factuurnummer": "2016-919",
+            "factuurdatum": "02-03-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 280
+        },
+        {
+            "factuur_id": 281,
+            "factuurnummer": "2008-593",
+            "factuurdatum": "13-10-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 281
+        },
+        {
+            "factuur_id": 282,
+            "factuurnummer": "2021-875",
+            "factuurdatum": "20-02-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 282
+        },
+        {
+            "factuur_id": 283,
+            "factuurnummer": "2021-526",
+            "factuurdatum": "05-10-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 283
+        },
+        {
+            "factuur_id": 284,
+            "factuurnummer": "2009-602",
+            "factuurdatum": "14-02-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 284
+        },
+        {
+            "factuur_id": 285,
+            "factuurnummer": "2006-905",
+            "factuurdatum": "26-03-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 285
+        },
+        {
+            "factuur_id": 286,
+            "factuurnummer": "2006-790",
+            "factuurdatum": "22-11-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 286
+        },
+        {
+            "factuur_id": 287,
+            "factuurnummer": "2023-885",
+            "factuurdatum": "17-02-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 287
+        },
+        {
+            "factuur_id": 288,
+            "factuurnummer": "2019-576",
+            "factuurdatum": "19-08-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 288
+        },
+        {
+            "factuur_id": 289,
+            "factuurnummer": "2000-191",
+            "factuurdatum": "01-05-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 289
+        },
+        {
+            "factuur_id": 290,
+            "factuurnummer": "2005-625",
+            "factuurdatum": "13-12-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 290
+        },
+        {
+            "factuur_id": 291,
+            "factuurnummer": "2001-191",
+            "factuurdatum": "22-10-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 291
+        },
+        {
+            "factuur_id": 292,
+            "factuurnummer": "2014-814",
+            "factuurdatum": "15-05-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 292
+        },
+        {
+            "factuur_id": 293,
+            "factuurnummer": "2003-198",
+            "factuurdatum": "25-09-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 293
+        },
+        {
+            "factuur_id": 294,
+            "factuurnummer": "2009-028",
+            "factuurdatum": "14-01-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 294
+        },
+        {
+            "factuur_id": 295,
+            "factuurnummer": "2002-659",
+            "factuurdatum": "24-07-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 295
+        },
+        {
+            "factuur_id": 296,
+            "factuurnummer": "2023-352",
+            "factuurdatum": "07-05-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 296
+        },
+        {
+            "factuur_id": 297,
+            "factuurnummer": "2008-585",
+            "factuurdatum": "06-02-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 297
+        },
+        {
+            "factuur_id": 298,
+            "factuurnummer": "2012-160",
+            "factuurdatum": "07-01-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 298
+        },
+        {
+            "factuur_id": 299,
+            "factuurnummer": "2013-530",
+            "factuurdatum": "17-05-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 299
+        },
+        {
+            "factuur_id": 300,
+            "factuurnummer": "2008-561",
+            "factuurdatum": "27-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 300
+        },
+        {
+            "factuur_id": 301,
+            "factuurnummer": "2004-229",
+            "factuurdatum": "17-08-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 301
+        },
+        {
+            "factuur_id": 302,
+            "factuurnummer": "2000-067",
+            "factuurdatum": "03-02-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 302
+        },
+        {
+            "factuur_id": 303,
+            "factuurnummer": "2020-307",
+            "factuurdatum": "13-11-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 303
+        },
+        {
+            "factuur_id": 304,
+            "factuurnummer": "2011-217",
+            "factuurdatum": "04-07-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 304
+        },
+        {
+            "factuur_id": 305,
+            "factuurnummer": "2018-341",
+            "factuurdatum": "18-05-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 305
+        },
+        {
+            "factuur_id": 306,
+            "factuurnummer": "2009-473",
+            "factuurdatum": "21-03-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 306
+        },
+        {
+            "factuur_id": 307,
+            "factuurnummer": "2007-689",
+            "factuurdatum": "27-04-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 307
+        },
+        {
+            "factuur_id": 308,
+            "factuurnummer": "2001-421",
+            "factuurdatum": "14-12-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 308
+        },
+        {
+            "factuur_id": 309,
+            "factuurnummer": "2008-961",
+            "factuurdatum": "24-09-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 309
+        },
+        {
+            "factuur_id": 310,
+            "factuurnummer": "2022-158",
+            "factuurdatum": "26-11-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 310
+        },
+        {
+            "factuur_id": 311,
+            "factuurnummer": "2018-117",
+            "factuurdatum": "20-08-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 311
+        },
+        {
+            "factuur_id": 312,
+            "factuurnummer": "2024-935",
+            "factuurdatum": "10-04-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 312
+        },
+        {
+            "factuur_id": 313,
+            "factuurnummer": "2024-489",
+            "factuurdatum": "01-05-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 313
+        },
+        {
+            "factuur_id": 314,
+            "factuurnummer": "2008-222",
+            "factuurdatum": "25-09-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 314
+        },
+        {
+            "factuur_id": 315,
+            "factuurnummer": "2012-859",
+            "factuurdatum": "11-01-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 315
+        },
+        {
+            "factuur_id": 316,
+            "factuurnummer": "2006-133",
+            "factuurdatum": "03-01-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 316
+        },
+        {
+            "factuur_id": 317,
+            "factuurnummer": "2000-548",
+            "factuurdatum": "04-02-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 317
+        },
+        {
+            "factuur_id": 318,
+            "factuurnummer": "2015-034",
+            "factuurdatum": "18-12-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 318
+        },
+        {
+            "factuur_id": 319,
+            "factuurnummer": "2016-197",
+            "factuurdatum": "21-08-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 319
+        },
+        {
+            "factuur_id": 320,
+            "factuurnummer": "2003-557",
+            "factuurdatum": "05-04-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 320
+        },
+        {
+            "factuur_id": 321,
+            "factuurnummer": "2015-649",
+            "factuurdatum": "13-10-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 321
+        },
+        {
+            "factuur_id": 322,
+            "factuurnummer": "2006-871",
+            "factuurdatum": "19-04-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 322
+        },
+        {
+            "factuur_id": 323,
+            "factuurnummer": "2000-270",
+            "factuurdatum": "23-11-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 323
+        },
+        {
+            "factuur_id": 324,
+            "factuurnummer": "2004-897",
+            "factuurdatum": "12-09-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 324
+        },
+        {
+            "factuur_id": 325,
+            "factuurnummer": "2002-500",
+            "factuurdatum": "12-11-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 325
+        },
+        {
+            "factuur_id": 326,
+            "factuurnummer": "2002-127",
+            "factuurdatum": "07-12-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 326
+        },
+        {
+            "factuur_id": 327,
+            "factuurnummer": "2006-555",
+            "factuurdatum": "11-01-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 327
+        },
+        {
+            "factuur_id": 328,
+            "factuurnummer": "2012-029",
+            "factuurdatum": "26-11-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 328
+        },
+        {
+            "factuur_id": 329,
+            "factuurnummer": "2011-866",
+            "factuurdatum": "24-10-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 329
+        },
+        {
+            "factuur_id": 330,
+            "factuurnummer": "2019-526",
+            "factuurdatum": "07-09-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 330
+        },
+        {
+            "factuur_id": 331,
+            "factuurnummer": "2005-622",
+            "factuurdatum": "21-02-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 331
+        },
+        {
+            "factuur_id": 332,
+            "factuurnummer": "2005-272",
+            "factuurdatum": "05-10-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 332
+        },
+        {
+            "factuur_id": 333,
+            "factuurnummer": "2017-230",
+            "factuurdatum": "08-05-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 333
+        },
+        {
+            "factuur_id": 334,
+            "factuurnummer": "2010-098",
+            "factuurdatum": "24-03-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 334
+        },
+        {
+            "factuur_id": 335,
+            "factuurnummer": "2018-064",
+            "factuurdatum": "24-02-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 335
+        },
+        {
+            "factuur_id": 336,
+            "factuurnummer": "2012-838",
+            "factuurdatum": "01-12-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 336
+        },
+        {
+            "factuur_id": 337,
+            "factuurnummer": "2009-486",
+            "factuurdatum": "20-07-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 337
+        },
+        {
+            "factuur_id": 338,
+            "factuurnummer": "2003-920",
+            "factuurdatum": "20-04-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 338
+        },
+        {
+            "factuur_id": 339,
+            "factuurnummer": "2024-295",
+            "factuurdatum": "04-06-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 339
+        },
+        {
+            "factuur_id": 340,
+            "factuurnummer": "2019-422",
+            "factuurdatum": "01-07-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 340
+        },
+        {
+            "factuur_id": 341,
+            "factuurnummer": "2021-464",
+            "factuurdatum": "08-03-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 341
+        },
+        {
+            "factuur_id": 342,
+            "factuurnummer": "2019-249",
+            "factuurdatum": "28-03-2020",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 342
+        },
+        {
+            "factuur_id": 343,
+            "factuurnummer": "2007-390",
+            "factuurdatum": "09-12-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 343
+        },
+        {
+            "factuur_id": 344,
+            "factuurnummer": "2017-334",
+            "factuurdatum": "23-02-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 344
+        },
+        {
+            "factuur_id": 345,
+            "factuurnummer": "2014-203",
+            "factuurdatum": "21-08-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 345
+        },
+        {
+            "factuur_id": 346,
+            "factuurnummer": "2006-646",
+            "factuurdatum": "18-04-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 346
+        },
+        {
+            "factuur_id": 347,
+            "factuurnummer": "2006-353",
+            "factuurdatum": "21-02-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 347
+        },
+        {
+            "factuur_id": 348,
+            "factuurnummer": "2019-459",
+            "factuurdatum": "15-06-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 348
+        },
+        {
+            "factuur_id": 349,
+            "factuurnummer": "2000-552",
+            "factuurdatum": "12-07-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 349
+        },
+        {
+            "factuur_id": 350,
+            "factuurnummer": "2007-200",
+            "factuurdatum": "25-01-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 350
+        },
+        {
+            "factuur_id": 351,
+            "factuurnummer": "2024-978",
+            "factuurdatum": "07-04-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 351
+        },
+        {
+            "factuur_id": 352,
+            "factuurnummer": "2019-789",
+            "factuurdatum": "25-08-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 352
+        },
+        {
+            "factuur_id": 353,
+            "factuurnummer": "2013-843",
+            "factuurdatum": "26-12-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 353
+        },
+        {
+            "factuur_id": 354,
+            "factuurnummer": "2007-579",
+            "factuurdatum": "03-04-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 354
+        },
+        {
+            "factuur_id": 355,
+            "factuurnummer": "2024-885",
+            "factuurdatum": "12-04-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 355
+        },
+        {
+            "factuur_id": 356,
+            "factuurnummer": "2001-856",
+            "factuurdatum": "23-01-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 356
+        },
+        {
+            "factuur_id": 357,
+            "factuurnummer": "2023-512",
+            "factuurdatum": "10-06-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 357
+        },
+        {
+            "factuur_id": 358,
+            "factuurnummer": "2004-527",
+            "factuurdatum": "09-09-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 358
+        },
+        {
+            "factuur_id": 359,
+            "factuurnummer": "2018-418",
+            "factuurdatum": "05-06-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 359
+        },
+        {
+            "factuur_id": 360,
+            "factuurnummer": "2020-848",
+            "factuurdatum": "28-11-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 360
+        },
+        {
+            "factuur_id": 361,
+            "factuurnummer": "2006-484",
+            "factuurdatum": "05-02-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 361
+        },
+        {
+            "factuur_id": 362,
+            "factuurnummer": "2002-448",
+            "factuurdatum": "05-05-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 362
+        },
+        {
+            "factuur_id": 363,
+            "factuurnummer": "2014-428",
+            "factuurdatum": "27-11-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 363
+        },
+        {
+            "factuur_id": 364,
+            "factuurnummer": "2021-408",
+            "factuurdatum": "24-10-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 364
+        },
+        {
+            "factuur_id": 365,
+            "factuurnummer": "2003-736",
+            "factuurdatum": "27-02-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 365
+        },
+        {
+            "factuur_id": 366,
+            "factuurnummer": "2008-686",
+            "factuurdatum": "20-12-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 366
+        },
+        {
+            "factuur_id": 367,
+            "factuurnummer": "2012-454",
+            "factuurdatum": "21-05-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 367
+        },
+        {
+            "factuur_id": 368,
+            "factuurnummer": "2014-869",
+            "factuurdatum": "25-05-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 368
+        },
+        {
+            "factuur_id": 369,
+            "factuurnummer": "2015-310",
+            "factuurdatum": "12-05-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 369
+        },
+        {
+            "factuur_id": 370,
+            "factuurnummer": "2007-112",
+            "factuurdatum": "05-10-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 370
+        },
+        {
+            "factuur_id": 371,
+            "factuurnummer": "2016-620",
+            "factuurdatum": "16-05-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 371
+        },
+        {
+            "factuur_id": 372,
+            "factuurnummer": "2015-296",
+            "factuurdatum": "09-10-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 372
+        },
+        {
+            "factuur_id": 373,
+            "factuurnummer": "2006-684",
+            "factuurdatum": "06-02-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 373
+        },
+        {
+            "factuur_id": 374,
+            "factuurnummer": "2008-829",
+            "factuurdatum": "09-01-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 374
+        },
+        {
+            "factuur_id": 375,
+            "factuurnummer": "2015-557",
+            "factuurdatum": "10-08-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 375
+        },
+        {
+            "factuur_id": 376,
+            "factuurnummer": "2020-536",
+            "factuurdatum": "08-12-2023",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 376
+        },
+        {
+            "factuur_id": 377,
+            "factuurnummer": "2017-661",
+            "factuurdatum": "02-05-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 377
+        },
+        {
+            "factuur_id": 378,
+            "factuurnummer": "2006-503",
+            "factuurdatum": "11-11-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 378
+        },
+        {
+            "factuur_id": 379,
+            "factuurnummer": "2018-177",
+            "factuurdatum": "15-12-2022",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 379
+        },
+        {
+            "factuur_id": 380,
+            "factuurnummer": "2012-614",
+            "factuurdatum": "25-07-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 380
+        },
+        {
+            "factuur_id": 381,
+            "factuurnummer": "2004-361",
+            "factuurdatum": "18-01-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 381
+        },
+        {
+            "factuur_id": 382,
+            "factuurnummer": "2016-092",
+            "factuurdatum": "04-03-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 382
+        },
+        {
+            "factuur_id": 383,
+            "factuurnummer": "2006-523",
+            "factuurdatum": "14-11-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 383
+        },
+        {
+            "factuur_id": 384,
+            "factuurnummer": "2001-733",
+            "factuurdatum": "04-07-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 384
+        },
+        {
+            "factuur_id": 385,
+            "factuurnummer": "2005-707",
+            "factuurdatum": "06-04-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 385
+        },
+        {
+            "factuur_id": 386,
+            "factuurnummer": "2021-629",
+            "factuurdatum": "24-10-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 386
+        },
+        {
+            "factuur_id": 387,
+            "factuurnummer": "2003-002",
+            "factuurdatum": "27-11-2020",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 387
+        },
+        {
+            "factuur_id": 388,
+            "factuurnummer": "2017-591",
+            "factuurdatum": "21-11-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 388
+        },
+        {
+            "factuur_id": 389,
+            "factuurnummer": "2007-020",
+            "factuurdatum": "21-02-2023",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 389
+        },
+        {
+            "factuur_id": 390,
+            "factuurnummer": "2020-916",
+            "factuurdatum": "15-11-2024",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 390
+        },
+        {
+            "factuur_id": 391,
+            "factuurnummer": "2006-165",
+            "factuurdatum": "12-03-2021",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 391
+        },
+        {
+            "factuur_id": 392,
+            "factuurnummer": "2004-183",
+            "factuurdatum": "12-12-2023",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 392
+        },
+        {
+            "factuur_id": 393,
+            "factuurnummer": "2010-105",
+            "factuurdatum": "18-02-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 393
+        },
+        {
+            "factuur_id": 394,
+            "factuurnummer": "2020-717",
+            "factuurdatum": "06-05-2022",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 394
+        },
+        {
+            "factuur_id": 395,
+            "factuurnummer": "2006-958",
+            "factuurdatum": "14-11-2024",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 395
+        },
+        {
+            "factuur_id": 396,
+            "factuurnummer": "2008-872",
+            "factuurdatum": "19-12-2022",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 396
+        },
+        {
+            "factuur_id": 397,
+            "factuurnummer": "2015-737",
+            "factuurdatum": "07-08-2021",
+            "betaaltermijn": "90-dagen",
+            "klant_id": 397
+        },
+        {
+            "factuur_id": 398,
+            "factuurnummer": "2023-876",
+            "factuurdatum": "03-06-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 398
+        },
+        {
+            "factuur_id": 399,
+            "factuurnummer": "2020-185",
+            "factuurdatum": "07-01-2021",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 399
+        },
+        {
+            "factuur_id": 400,
+            "factuurnummer": "2004-802",
+            "factuurdatum": "01-06-2024",
+            "betaaltermijn": "30-dagen",
+            "klant_id": 400
+        },
+        {
+            "factuur_id": 401,
+            "factuurnummer": "2024-666",
+            "factuurdatum": "14-06-2020",
+            "betaaltermijn": "60-dagen",
+            "klant_id": 401
+        }
+    ]
+}
